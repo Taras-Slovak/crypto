@@ -1,0 +1,20 @@
+{
+	"cSpell.words": [
+    "antd",
+    "Cryptoverse",
+    "flexbugs",
+    "jsncc",
+    "millify",
+    "mshffd",
+    "reduxjs",
+    "svgr",
+    "tailwindcss",
+    "testname",
+    "typeahead"
+  ],
+	"editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": ["javascript"]
+	
+}
